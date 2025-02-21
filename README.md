@@ -22,7 +22,7 @@
     <li><span style="font-size: 12pt;">Set up a Hadoop cluster of no less than 3 machines</span></li>
     <li><span style="font-size: 12pt;">Show me what you did and how you did it&nbsp; (Anything from "here's the link I used" to "here's every terminal command I ran" will be fine)</span></li>
     <li><span style="font-size: 12pt;">Show me THAT you did it too (proof that you ran a job, so maybe a screenshot of the job status</span></li>
-    <li><span style="font-size: 12pt; text-decoration: underline !important;">Submit to canvas a link to your GitHub Issue and post/host whatever you'd like</span></li>
+    <li><span style="font-size: 12pt;">Submit to canvas a link to your GitHub Issue and post/host whatever you'd like</span></li>
 </ul>
 <p><span style="font-size: 12pt;">The deliverables are again&nbsp;<em>intentionally</em> vague this time. First of all, because there's like a million ways to set up a cluster. I am not qualified to tell you the best way. Second of all, the journey is <em>always</em> more fun than the destination. Figuring out all the how/what/where and all is literally better than any walkthrough I could ever give to you to say "do what they did".</span></p>
 <p>BOOSTER PACK(S):</p>
